@@ -28,8 +28,8 @@ class MyWidget2 extends StatelessWidget {
       gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
         mainAxisSpacing: 5,
         crossAxisCount: 3,
-        childAspectRatio: 3/4,
-        crossAxisSpacing: 20,
+        childAspectRatio: 1.0,
+        crossAxisSpacing: 2,
       ),
       children: <Widget>[
         new Image.network(
