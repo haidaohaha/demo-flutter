@@ -3,3 +3,7 @@
 ## demo01 底部导航栏
 
 [地址](https://jspang.com/post/flutterDemo.html#toc-ff4)
+
+## demo02 不规则底部工具栏
+
+[地址](https://jspang.com/post/flutterDemo.html#toc-973)
