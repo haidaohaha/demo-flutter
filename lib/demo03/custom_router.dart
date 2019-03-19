@@ -43,17 +43,9 @@ class CustomRouter extends PageRouteBuilder {
               // );
 
               // 左侧移入
-              // return SlideTransition(
-              //   position: Tween<Offset>(
-              //           begin: Offset(-0.1, 0.0), end: Offset(0.0, 0.0))
-              //       .animate(CurvedAnimation(
-              //           parent: animation1, curve: Curves.fastOutSlowIn)),
-              //   child: child,
-              // );
-
-//  Duration(seconds: 1) 上面有个 BUG 没看出来啊... 😅
               return SlideTransition(
                 position: Tween<Offset>(
+                        // begin: Offset(-0.5, 0.0), end: Offset(0.0, 0.0))
                         begin: Offset(-1.0, 0.0), end: Offset(0.0, 0.0))
                     .animate(CurvedAnimation(
                         parent: animation1, curve: Curves.fastOutSlowIn)),
