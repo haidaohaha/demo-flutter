@@ -19,3 +19,7 @@
 ## demo15 贝塞尔曲线切割 
 ### 去掉DeBug图标 debugShowCheckedModeBanner: false,
 [地址](https://jspang.com/posts/2019/02/22/flutterdemo.html#%E7%AC%AC15%E8%8A%82-%E8%B4%9D%E5%A1%9E%E5%B0%94%E6%9B%B2%E7%BA%BF%E5%88%87%E5%89%B2)  
+
+## demo16 波浪形式的贝塞尔曲线 
+
+[地址](https://jspang.com/posts/2019/02/22/flutterdemo.html#%E7%AC%AC16%E8%8A%82-%E6%B3%A2%E6%B5%AA%E5%BD%A2%E5%BC%8F%E7%9A%84%E8%B4%9D%E5%A1%9E%E5%B0%94%E6%9B%B2%E7%BA%BF)  

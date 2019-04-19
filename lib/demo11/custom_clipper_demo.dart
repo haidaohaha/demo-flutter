@@ -26,6 +26,7 @@ class CustomClipperDemo extends StatelessWidget {
   }
 }
 
+// 单节点  
 class BottomClipper extends CustomClipper<Path> {
   @override
   Path getClip(Size size) {
@@ -51,6 +52,7 @@ class BottomClipper extends CustomClipper<Path> {
   bool shouldReclip(CustomClipper<Path> oldClipper) => false;
 }
 
+// 双节点
 class BottomClipperDouble extends CustomClipper<Path> {
   @override
   Path getClip(Size size) {
