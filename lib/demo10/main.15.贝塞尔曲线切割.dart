@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import './demo10/custom_clipper_demo.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(MyApp());  
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '贝塞尔曲线切割',
+      title:'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
@@ -17,3 +17,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
